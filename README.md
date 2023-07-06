@@ -8,18 +8,18 @@
 
 # Solution
 Package zone
-- Clone folder to OS -> json and README
-- Accessing to %appdata% -> AppData\Local\Arduino15\packages\FRIENDROBOT ESP32\hardware\esp32\1.0.2 
-- find and editing file (add function and edit code) and save
-- compressed (zip) file
-- release to github and copylink
+- Clone folder to OS -> json and README.
+- Accessing to library %appdata% -> AppData\Local\Arduino15\packages\FRIENDROBOT ESP32\hardware\esp32\1.0.2 .
+- find and editing file (add function and edit code) and save.
+- compressed (zip) file.
+- release to github and copy link.
 
 Json zone
-- editing name, version, url, checksum, size (zip) 
+- editing name, version, url, checksum, size (zip) .
 - [checksum (cmd) -> ```certutil.exe -hashfile "path file zip" SHA256```
-- commit and push to github
+- commit and push to github.
 
 Use zone
-- access to json file for copy to preference (click raw)
-- paste to preference and get to Board manager 
-- find name library and install
+- access to json file for copy to preference (click raw).
+- paste to preference and get to Board manager .
+- find name library and install.
