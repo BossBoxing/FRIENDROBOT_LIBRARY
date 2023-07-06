@@ -19,3 +19,7 @@ Json zone
 - [checksum (cmd) -> ```certutil.exe -hashfile "path file zip" SHA256```
 - commit and push to github
 
+Use zone
+- access to json file for copy to preference (click raw)
+- paste to preference and get to Board manager 
+- find name library and install
