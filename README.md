@@ -16,7 +16,7 @@ Package zone
 
 Json zone
 - editing name, version, url, checksum, size (zip) .
-- [checksum (cmd) -> ```certutil.exe -hashfile "path file zip" SHA256```
+- checksum (cmd) -> ```certutil.exe -hashfile "path file zip" SHA256```
 - commit and push to github.
 
 Use zone
